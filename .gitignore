@@ -2,6 +2,8 @@
 ### Java template
 # Compiled class file
 *.class
+*.lock
+*.bin
 
 # Log file
 *.log
@@ -11,6 +13,11 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
+.gradle
+gradle
+out
+.idea
+build
 
 # Package Files #
 *.jar
